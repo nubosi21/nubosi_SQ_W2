@@ -1,16 +1,5 @@
 # Week 2 Example 2: Platformer with Platforms Array
 
-<<<<<<< HEAD
-
-# Sushi Go Platformer
-
-// How to Run & Play
-Open the GitHub Pages link (below) in Google Chrome.
-
-Controls:
-- Move: Arrow Keys or A / D
-- Jump: W or Up Arrow
-=======
 ## Setup and Interaction Instructions
 
 To run the sketch locally, open `index.html` in Google Chrome using Live Server.
@@ -29,19 +18,19 @@ To run the sketch locally, open `index.html` in Google Chrome using Live Server.
 Goal:
 Jump across sushi platforms and reach higher areas. The green wasabi platform will bounce you higher!
 
-//Assets
 
-Background image: (https://stockcake.com/i/cute-sushi-character_835316_835181)
-Player image: (https://stockcake.com/i/cute-sushi-character_835316_835181)
+## Assets
 
+| File | Source |
+|------|--------|
+| `assets/images/sushigobackground.jpg` [1] | Drawn by Nuju Ubosi |
+| `assets/images/sushigoch.webp` [2] | Drawn by Nuju Ubosi |
 
-// References
+## References
 
-p5.js documentation:
-https://p5js.org/reference/
+[1] StockCake. Cute Sushi Character. StockCake, 2026.
+Available at: https://stockcake.com/i/cute-sushi-character_835316_835181
 
-Collision logic inspired by class examples
+[2] Japanese Food Cartoon Illustration with Various Delicious Dishes in the Restaurant such as Sushi on a Plate, Sashimi Roll and Other in Flat Style. Vecteezy. 2026.
+Available at: https://www.vecteezy.com/vector-art/9668541-japanese-food-cartoon-illustration-with-various-delicious-dishes-in-the-restaurant-such-as-sushi-on-a-plate-sashimi-roll-and-other-in-flat-style
 
-## Setup and Interaction Instructions
-
-To run the sketch locally, open `index.html` in Google Chrome using Live Server.

@@ -74,7 +74,7 @@ const PLATFORM_COLOR = [255, 160, 50]; // warm orange
 
 function preload() {
   bgImg = loadImage("assets/images/sushigobackground.jpg");
-  playerImg = loadImage("sushigoch.webp");
+  playerImg = loadImage("assets/images/sushigoch.webp");
 }
 
 function setup() {
